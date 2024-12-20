@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "soal": "Siapakah pahlawan wanita dari Aceh yang terkenal dengan perjuangannya melawan Belanda?",
+    "jawaban": "Cut Nyak Dien"
+  },
+  {
+    "id": 2,
+    "soal": "Pahlawan nasional yang dikenal sebagai 'Bapak Pendidikan Nasional'?",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "id": 3,
+    "soal": "Pahlawan yang memimpin perang Diponegoro selama lima tahun melawan Belanda?",
+    "jawaban": "Pangeran Diponegoro"
+  },
+  {
+    "id": 4,
+    "soal": "Pahlawan yang dikenal sebagai proklamator kemerdekaan Indonesia bersama Bung Hatta?",
+    "jawaban": "Ir. Soekarno"
+  },
+  {
+    "id": 5,
+    "soal": "Pahlawan wanita yang berasal dari Jawa Tengah dan memperjuangkan emansipasi wanita?",
+    "jawaban": "R.A. Kartini"
+  },
+  {
+    "id": 6,
+    "soal": "Pahlawan dari Kalimantan Selatan yang dikenal dengan perjuangan gerilyanya melawan Belanda?",
+    "jawaban": "Pangeran Antasari"
+  },
+  {
+    "id": 7,
+    "soal": "Pahlawan asal Sulawesi Selatan yang dikenal dengan strategi perang gerilya?",
+    "jawaban": "Sultan Hasanuddin"
+  },
+  {
+    "id": 8,
+    "soal": "Pahlawan dari Sumatra Barat yang memimpin Perang Padri?",
+    "jawaban": "Tuanku Imam Bonjol"
+  },
+  {
+    "id": 9,
+    "soal": "Siapakah yang dikenal sebagai pejuang HAM dan pahlawan dari Manado?",
+    "jawaban": "Sam Ratulangi"
+  },
+  {
+    "id": 10,
+    "soal": "Pahlawan yang dikenal dengan semboyan 'Merdeka atau Mati'?",
+    "jawaban": "Patimura"
+  },
+  {
+    "id": 11,
+    "soal": "Pahlawan wanita yang memimpin perang melawan Belanda di Maluku?",
+    "jawaban": "Martha Christina Tiahahu"
+  },
+  {
+    "id": 12,
+    "soal": "Pahlawan dari Bali yang gugur dalam Perang Puputan?",
+    "jawaban": "I Gusti Ngurah Rai"
+  },
+  {
+    "id": 13,
+    "soal": "Pahlawan yang terkenal dengan perjuangannya di Surabaya pada 10 November?",
+    "jawaban": "Bung Tomo"
+  },
+  {
+    "id": 14,
+    "soal": "Pahlawan dari Aceh yang dijuluki 'Singa dari Aceh'?",
+    "jawaban": "Teuku Umar"
+  },
+  {
+    "id": 15,
+    "soal": "Pahlawan yang menjadi sultan di Banten dan berperang melawan VOC?",
+    "jawaban": "Sultan Ageng Tirtayasa"
+  },
+  {
+    "id": 16,
+    "soal": "Pahlawan nasional dari Palembang yang memimpin perlawanan terhadap Belanda?",
+    "jawaban": "Sultan Mahmud Badaruddin II"
+  },
+  {
+    "id": 17,
+    "soal": "Siapakah tokoh penting dalam perlawanan di Tapanuli yang dikenal dengan sebutan 'Sisingamangaraja'?",
+    "jawaban": "Sisingamangaraja XII"
+  },
+  {
+    "id": 18,
+    "soal": "Pahlawan dari Betawi yang dikenal dengan nama asli Muhammad Husni Thamrin?",
+    "jawaban": "Mohammad Husni Thamrin"
+  },
+  {
+    "id": 19,
+    "soal": "Siapakah yang dikenal sebagai pahlawan perlawanan Jepang dari Blitar?",
+    "jawaban": "Soepriyadi"
+  },
+  {
+    "id": 20,
+    "soal": "Pahlawan wanita asal Aceh yang memimpin perang di Aceh Besar?",
+    "jawaban": "Cut Meutia"
+  },
+  {
+    "id": 21,
+    "soal": "Pahlawan nasional yang berjuang di Makassar melawan VOC?",
+    "jawaban": "Sultan Hasanuddin"
+  },
+  {
+    "id": 22,
+    "soal": "Siapakah yang mendirikan organisasi Boedi Oetomo?",
+    "jawaban": "Dr. Wahidin Sudirohusodo"
+  },
+  {
+    "id": 23,
+    "soal": "Pahlawan dari Surabaya yang dikenal sebagai pelopor organisasi modern Sarekat Islam?",
+    "jawaban": "H.O.S. Tjokroaminoto"
+  },
+  {
+    "id": 24,
+    "soal": "Pahlawan dari Jawa Tengah yang terkenal dengan taktik perang gerilya di Gunung Lawu?",
+    "jawaban": "Jenderal Sudirman"
+  },
+  {
+    "id": 25,
+    "soal": "Pahlawan nasional yang memimpin pemberontakan di Banten pada abad ke-19?",
+    "jawaban": "Raden Fatah"
+  },
+{
+    "id": 26,
+    "soal": "Pahlawan yang dikenal sebagai pemimpin pemberontakan di daerah Priangan?",
+    "jawaban": "Dipati Ukur"
+  },
+  {
+    "id": 27,
+    "soal": "Siapakah pahlawan wanita yang memimpin perang melawan penjajah di Maluku Utara?",
+    "jawaban": "Nuku"
+  },
+  {
+    "id": 28,
+    "soal": "Pahlawan dari Ambon yang dikenal dengan nama asli Thomas Matulessy?",
+    "jawaban": "Kapitan Pattimura"
+  },
+  {
+    "id": 29,
+    "soal": "Pahlawan yang memimpin perlawanan terhadap Belanda di Kerajaan Luwu?",
+    "jawaban": "Arung Palakka"
+  },
+  {
+    "id": 30,
+    "soal": "Siapakah pahlawan yang memimpin pasukan melawan Belanda di Perang Banjarmasin?",
+    "jawaban": "Antasari"
+  },
+  {
+    "id": 31,
+    "soal": "Pahlawan dari Sulawesi Utara yang dikenal sebagai pelopor pendidikan dan perjuangan nasional?",
+    "jawaban": "Maria Walanda Maramis"
+  },
+  {
+    "id": 32,
+    "soal": "Siapakah pahlawan dari Sumatera Barat yang dikenal dengan perjuangan di Kerajaan Pagaruyung?",
+    "jawaban": "Tuanku Rao"
+  },
+  {
+    "id": 33,
+    "soal": "Pahlawan yang dikenal dengan semboyan 'Hidup atau Mati untuk Indonesia'?",
+    "jawaban": "Yos Sudarso"
+  },
+  {
+    "id": 34,
+    "soal": "Pahlawan yang gugur dalam Perang Puputan Klungkung di Bali?",
+    "jawaban": "Dewa Agung Jambe"
+  },
+  {
+    "id": 35,
+    "soal": "Pahlawan wanita dari Aceh yang memimpin pasukan melawan Belanda di masa Perang Aceh?",
+    "jawaban": "Cut Nyak Dhien"
+  },
+  {
+    "id": 36,
+    "soal": "Pahlawan dari Yogyakarta yang dikenal sebagai pendiri Muhammadiyah?",
+    "jawaban": "KH Ahmad Dahlan"
+  },
+  {
+    "id": 37,
+    "soal": "Pahlawan nasional yang berasal dari Madura dan dikenal dengan strategi perang gerilya?",
+    "jawaban": "Trunojoyo"
+  },
+  {
+    "id": 38,
+    "soal": "Pahlawan nasional yang memimpin pemberontakan di Sulawesi Utara melawan Jepang?",
+    "jawaban": "Robert Wolter Monginsidi"
+  },
+  {
+    "id": 39,
+    "soal": "Pahlawan nasional dari Maluku yang dikenal sebagai pemimpin perjuangan melawan kolonialisme Belanda?",
+    "jawaban": "Sultan Babullah"
+  },
+  {
+    "id": 40,
+    "soal": "Pahlawan yang memimpin pasukan pejuang di Peta Blitar melawan penjajah Jepang?",
+    "jawaban": "Soeprijadi"
+  },
+  {
+    "id": 41,
+    "soal": "Siapakah pahlawan yang memimpin perlawanan rakyat Ternate melawan penjajahan VOC?",
+    "jawaban": "Sultan Nuku"
+  },
+  {
+    "id": 42,
+    "soal": "Pahlawan dari Jawa Tengah yang dikenal sebagai pelopor gerakan nasionalisme modern?",
+    "jawaban": "R.M. Tirto Adhi Soerjo"
+  },
+  {
+    "id": 43,
+    "soal": "Pahlawan nasional yang memimpin pemberontakan di Sulawesi Selatan melawan penjajahan Belanda?",
+    "jawaban": "Kahar Muzakkar"
+  },
+  {
+    "id": 44,
+    "soal": "Siapakah pahlawan yang menjadi pelopor jurnalistik di Indonesia?",
+    "jawaban": "Dewi Sartika"
+  },
+  {
+    "id": 45,
+    "soal": "Pahlawan yang terkenal karena perannya dalam proklamasi kemerdekaan Indonesia?",
+    "jawaban": "Mohammad Hatta"
+  },
+  {
+    "id": 46,
+    "soal": "Pahlawan nasional dari Jakarta yang memperjuangkan hak buruh dan kemerdekaan?",
+    "jawaban": "Tan Malaka"
+  },
+  {
+    "id": 47,
+    "soal": "Pahlawan wanita yang mendirikan Sekolah Kartini untuk pendidikan wanita di Indonesia?",
+    "jawaban": "Dewi Sartika"
+  },
+  {
+    "id": 48,
+    "soal": "Pahlawan nasional yang terkenal sebagai pelopor gerakan bawah tanah melawan Jepang?",
+    "jawaban": "Amir Sjarifuddin"
+  },
+  {
+    "id": 49,
+    "soal": "Pahlawan dari Kalimantan Barat yang memimpin perlawanan rakyat Dayak melawan penjajahan Belanda?",
+    "jawaban": "Opu Daeng Menambon"
+  },
+  {
+    "id": 50,
+    "soal": "Pahlawan dari Papua yang dikenal sebagai tokoh pejuang di era kolonial Belanda?",
+    "jawaban": "Silas Papare"
+  }
+]
